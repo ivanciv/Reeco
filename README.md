@@ -1,3 +1,9 @@
+Prerequisites
+Node.js ≥18 LTS (≥20 is recommended for Playwright v1.46).
+bash
+
+Example with nvm
+nvm install --lts
 nvm use --lts
 
 A Git client (for the optional GitHub Actions workflow).
