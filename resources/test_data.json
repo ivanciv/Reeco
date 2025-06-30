@@ -1,0 +1,18 @@
+{ 
+    "account-name":"Andriy",
+    "account-location":"España",
+    "account-language":"español -",
+    "account-language-flag":"ES",
+    "account-currency":"uro",
+    "valid-email-value": "inna.work.recruit@gmail.com",
+    "invalid-email-value": "@gmail.com",
+    "invalid-email-message":"Invalid email address",
+    "invalid-mobile-number-value": "+1234567890",
+    "invalid-mobile-number-message": "Invalid mobile number",
+    "invalid-password-value": "@#$%^&*(",
+    "invalid-password-message": "Your password is incorrect",
+    "search-query": "typescript cookbook",
+    "signin-page-title": "Amazon Sign-In",
+    "home-page-title": "Amazon.com. Spend less. Smile more.",
+    "search-page-title":"Amazon.com : typescript cookbook"
+}
