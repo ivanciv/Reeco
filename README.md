@@ -1,16 +1,8 @@
-Prerequisites
-Node.js ≥18 LTS (≥20 is recommended for Playwright v1.46).
- bash
-
-Example with nvm
-nvm install --lts
 nvm use --lts
 
-
 A Git client (for the optional GitHub Actions workflow).
-
-
 macOS / Linux / Windows 10 2004+ with WSL 2 (Docker-only steps).
+
 
 How to clone and initialize a Git repository (from remote).
 
@@ -24,11 +16,13 @@ This downloads the repository and moves you into the project folder.
 
 How to install and run the Playwright + TypeScript automation testing framework.
 
+
 ✅ Step 1: Initialize your project
 bash
 
 cd my-playwright-tests
 npm init playwright@latest
+
 
 ✅ Step 2: Run your first test
 bash
@@ -40,7 +34,6 @@ To view the report:
 bash
 
 npx playwright show-report
-
 
 
 ✅ Step 3: Run tests with options
