@@ -60,9 +60,7 @@ npx playwright test --grep "check title"
 ✅ Done!
 You’ve now:
 Installed Playwright with TypeScript
-
-
 Created and run your own test
-
-
 Viewed results in a visual report
+
+Please find Manual and Automated Test Plan documents in the test_plan folder
